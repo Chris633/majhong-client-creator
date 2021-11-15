@@ -1,0 +1,15 @@
+{
+  "__version__": "1.2.9",
+  "splash-setting": {
+    "url": "C:\\Users\\chris\\Desktop\\splash.png",
+    "displayRatio": 0,
+    "totalTime": 0,
+    "clearColor": {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "w": 0
+    },
+    "displayWatermark": false
+  }
+}
